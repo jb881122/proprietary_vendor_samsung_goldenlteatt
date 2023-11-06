@@ -1,1 +1,1 @@
-Proprietary Blobs for Galaxy Ace 3 LTE
+Proprietary Blobs for Galaxy S III Mini LTE (AT&T)
